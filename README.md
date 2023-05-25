@@ -4,5 +4,6 @@ Menjelajahi tempat-tempat baru sambil menawarkan nuansa kebersamaan dan menginap
 
 ## Current Features
 
-- Register
-- Login
+- Register (with Credentials: Email & Password, Github, Google)
+- Login (with Credentials: Email & Password, Github, Google)
+- Logout
