@@ -19,3 +19,10 @@ body,
 .rose_gradient {
   @apply bg-gradient-to-r from-red-400 to-rose-400 bg-clip-text text-transparent;
 }
+
+.leaflet-bottom,
+.leaflet-control,
+.leaflet-pane,
+.leaflet-top {
+  z-index: 0 !important;
+}
