@@ -7,3 +7,4 @@ Menjelajahi tempat-tempat baru sambil menawarkan nuansa kebersamaan dan menginap
 - Register (with Credentials: Email & Password, Github, Google)
 - Login (with Credentials: Email & Password, Github, Google)
 - Logout
+- Upload Image to Cloudinary
