@@ -22,3 +22,5 @@ Menjelajahi tempat-tempat baru sambil menawarkan nuansa kebersamaan dan menginap
 - Create Listing Property
 - Add to Favorites Listing (Likes Feauture)
 - Individual Listing View (Listing Detail Page)
+- Fully Responsive Website (Mobile, Tablet, Laptop, Desktop)
+- Create Reservation
