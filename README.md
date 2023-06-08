@@ -24,3 +24,4 @@ Menjelajahi tempat-tempat baru sambil menawarkan nuansa kebersamaan dan menginap
 - Individual Listing View (Listing Detail Page)
 - Fully Responsive Website (Mobile, Tablet, Laptop, Desktop)
 - Create Reservation
+- Cancel Reservation
