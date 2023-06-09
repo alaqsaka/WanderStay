@@ -25,3 +25,6 @@ Menjelajahi tempat-tempat baru sambil menawarkan nuansa kebersamaan dan menginap
 - Fully Responsive Website (Mobile, Tablet, Laptop, Desktop)
 - Create Reservation
 - Cancel Reservation
+- My trips page
+- My Favorites page
+- My reservations page
