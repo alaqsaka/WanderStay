@@ -28,3 +28,5 @@ Menjelajahi tempat-tempat baru sambil menawarkan nuansa kebersamaan dan menginap
 - My trips page
 - My Favorites page
 - My reservations page
+- My properties page
+- Delete property
