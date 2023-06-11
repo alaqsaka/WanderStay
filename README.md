@@ -30,3 +30,4 @@ Menjelajahi tempat-tempat baru sambil menawarkan nuansa kebersamaan dan menginap
 - My reservations page
 - My properties page
 - Delete property
+- Search (filters)
