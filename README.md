@@ -31,3 +31,4 @@ Menjelajahi tempat-tempat baru sambil menawarkan nuansa kebersamaan dan menginap
 - My properties page
 - Delete property
 - Search (filters)
+- Deployed to vercel
